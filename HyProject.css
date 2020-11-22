@@ -1,0 +1,31 @@
+body {
+    color: white;
+    background-color:rgb(0, 9, 19);
+    font-family:Spiegel, "Arial Narrow", Arial, sans-serif;
+}
+
+table, td, th {
+    border: 2px solid #555555;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center;
+}
+
+tr {
+    height: 40px;
+}
+
+table {
+    font-size: 14pt;
+}
+
+th {
+    font-size: 1.1em;
+}
+
+a {
+    color:white
+}
+
